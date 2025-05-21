@@ -1,6 +1,6 @@
 # 🧩 Week 02: Object-Oriented Programming in Java
 
-Welcome to **Week 2** of our Java journey! This week dives deep into the core principles of Object-Oriented Programming (OOP) — empowering you to design, build, and manage complex software with ease.
+Welcome to **Week 2** of our Java journey! This week dives deep into the core principles of Object-Oriented Programming (OOP) — empowering us to design, build, and manage complex software with ease.
 
 ---
 
@@ -76,7 +76,6 @@ Week 2 covers Object-Oriented Programming essentials — building blocks that le
 
 ## 📁 How to Use This Repo
 
-- Explore each topic folder to find lecture notes, code examples, and assignments
 - Review submitted assignments for practice
 - Experiment by extending the examples and applying OOP principles
 
@@ -84,6 +83,6 @@ Week 2 covers Object-Oriented Programming essentials — building blocks that le
 
 ## 🔭 Next Steps
 
-After Week 2, you’ll be ready to tackle advanced Java concepts like Collections, Exception Handling, and Java I/O.
+After Week 2, we'll be ready to tackle advanced Java concepts like Collections, Exception Handling, and Java I/O.
 
-> 💡 Mastery of OOP lays the foundation for any serious Java developer. Keep coding!
+> 💡 Mastery of OOP lays the foundation for any serious Java developer!
